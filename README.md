@@ -25,5 +25,6 @@
 
 ### Требования к результату
 - [ ] приложите скриншот браузера с открытым эндпоинтом, а также скриншот списка таргетов из интерфейса Prometheus.*
-
+![Monitoring_005](https://github.com/Qshar1408/smon-homework-05/blob/main/img/smon05_005.png)
+![Monitoring_006](https://github.com/Qshar1408/smon-homework-05/blob/main/img/smon05_006.png)
 ---
